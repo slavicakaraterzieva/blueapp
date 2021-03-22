@@ -506,7 +506,7 @@ body {
           font-size: 2rem;
           margin-top: 2rem; } }
   .section-register .register::before {
-    background-image: url(../img/kisela_voda.jpg);
+    background-image: url(img/kisela_voda.jpg);
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
@@ -641,7 +641,7 @@ body {
           font-size: 2rem;
           margin-top: 6rem; } }
   .section-login .login::before {
-    background-image: url(../img/blue-design.jpg);
+    background-image: url(img/blue-design.jpg);
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
@@ -719,7 +719,7 @@ body {
 .header {
   width: 100%;
   height: 100vh;
-  background-image: linear-gradient(to bottom left, rgba(138, 138, 138, 0.5), rgba(97, 96, 96, 0.5)), url(../img/daylight-environment.jpg);
+  background-image: linear-gradient(to bottom left, rgba(138, 138, 138, 0.5), rgba(97, 96, 96, 0.5)), url(img/daylight-environment.jpg);
   background-size: cover;
   background-position-x: top;
   background-repeat: no-repeat;
